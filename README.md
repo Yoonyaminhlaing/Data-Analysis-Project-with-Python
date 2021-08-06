@@ -1,8 +1,7 @@
 # Data-Analysis-Project-with-Python
 ## Project 1 - Weather Dataset
 
-### Questions are given in the project and then solved with the help of Python. It is a project of Data Analysis with Python or you can say, Data Science with Python.
-
+### Questions are given in the project and then solved with the help of Python. 
 #### The commands that we used in this project :
 
 * head() - It shows the first N rows in the data (by default, N=5).
@@ -15,3 +14,19 @@
 * count - It shows the total no. of non-null values in each column. It can be applied on a single column as well as on the whole dataframe.
 * value_counts - In a column, it shows all the unique values with their count. It can be applied on a single column only.
 * info() - Provides basic information about the dataframe.
+
+## Project 2 - Car Dataset
+
+### Questions are given in the project and then solved with the help of Python.
+#### The commands that we used in this project : 
+
+* head() - It shows the first N rows in the data (by default, N=5).
+* shape - It shows the total no. of rows and no. of columns of the dataframe
+* isnull() -
+* sum() - 
+* filla() - 
+* mean() - 
+* value_counts - In a column, it shows all the unique values with their count. It can be applied on a single column only.
+* isin() - 
+* ~() - 
+* apply(lambda x : ) - 

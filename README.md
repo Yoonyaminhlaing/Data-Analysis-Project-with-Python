@@ -22,7 +22,7 @@
 
 * head() - It shows the first N rows in the data (by default, N=5).
 * shape - It shows the total no. of rows and no. of columns of the dataframe
-* isnull() -
+* isnull() - It detect the missing values in the given series object.
 * sum() - 
 * filla() - 
 * mean() - 

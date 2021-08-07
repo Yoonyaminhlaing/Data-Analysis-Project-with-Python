@@ -23,10 +23,10 @@
 * head() - It shows the first N rows in the data (by default, N=5).
 * shape - It shows the total no. of rows and no. of columns of the dataframe
 * isnull() - It detect the missing values in the given series object.
-* sum() - 
-* filla() - 
-* mean() - 
+* sum() - This function adds up all the numerical values in an iterable, such as a list, and returns the total of those values. 
+* filla() - It replace the NAN value with certain number
+* mean() - It give the average of given series
 * value_counts - In a column, it shows all the unique values with their count. It can be applied on a single column only.
-* isin() - 
-* ~() - 
-* apply(lambda x : ) - 
+* isin() - This function is used to check each element in the DataFrame is contained in values or not.
+* ~() - It uses remove the unwanted records.
+* apply(lambda x : ) - We use the apply() function to apply the lambda function to both rows and columns of a dataframe.

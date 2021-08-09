@@ -45,6 +45,17 @@
 * mean() -  It give the average of given series
 * describe() - The describe() method is used for calculating some statistical data like percentile, mean and std of the numerical values of the Series or DataFrame. 
 
-## Project 4 - 
+## Project 4 - Covid-19 Dataset
+
+### Questions are given in the project and then solved with the help of Python.
+#### The commands that we used in this project :
+
+* isnull() - It detect the missing values in the given series object.
+* sum() - This function adds up all the numerical values in an iterable, such as a list, and returns the total of those values. 
+* count()- It calculates how many times a particular value appears within a string or a list 
+* heatmap() - Plot rectangular data as a color-encoded matrix.
+* groupby() -  It allows you to split your data into separate groups to perform computations for better analysis.
+* sort_values () - It sorts a data frame in Ascending or Descending order of passed Column. 
+* ~() - It uses remove the unwanted records.
 
 

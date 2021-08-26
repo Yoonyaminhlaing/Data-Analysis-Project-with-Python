@@ -58,4 +58,32 @@
 * sort_values () - It sorts a data frame in Ascending or Descending order of passed Column. 
 * ~() - It uses remove the unwanted records.
 
+## Project 5 - Landon Housing Dataset
+
+### Questions are given in the project and then solved with the help of Python.
+#### The commands that we used in this project :
+
+will write later 😁
+
+## Project 6 - Census Dataset
+
+### Questions are given in the project and then solved with the help of Python.
+#### The commands that we used in this project :
+
+will write later 😁
+
+## Project 7 - Udemy Dataset
+
+### Questions are given in the project and then solved with the help of Python.
+#### The commands that we used in this project :
+
+will write later 😁
+
+## Project 8 - Netflix Dataset
+
+### Questions are given in the project and then solved with the help of Python.
+#### The commands that we used in this project :
+
+will write later 😁
+
 
